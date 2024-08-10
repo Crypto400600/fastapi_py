@@ -116,11 +116,9 @@ You can find detailed info for this package in the [Documentation](https://acwaz
 Contributions are very welcome!
 
 ### How to contribute
-Just open an issue or submit a pull request on [GitHub](https://github.com/acwazz/fastapi-responseschema).
+Just open an issue or submit a pull request on [GitHub](https://github.com/Luis-David95/fastapi_py).
 
 While submitting a pull request describe what changes have been made.
-
-More info on [Docs section](https://acwazz.github.io/fastapi-responseschema/contributing/)
 
 ## Contributors Wall
 [![Contributors Wall](https://contrib.rocks/image?repo=acwazz/fastapi-responseschema)](https://github.com/acwazz/fastapi-responseschema/graphs/contributors)
